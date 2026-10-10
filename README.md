@@ -43,7 +43,7 @@ $ echo $STATUS
 </tr>
 </table>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sayeed848&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge&labelColor=0d1117)
+   ![Profile Views](https://hits.sh/github.com/Sayeed848/Sayeed848.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=00ff41&labelColor=0d1117)
 ![Followers](https://img.shields.io/github/followers/Sayeed848?style=for-the-badge&logo=github&color=ff00cc&labelColor=0d1117)
 ![Status](https://img.shields.io/badge/STATUS-OPEN_TO_WORK-00e676?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0d1117)
 ![Location](https://img.shields.io/badge/BASE-BENGALURU-ff9500?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d1117)
